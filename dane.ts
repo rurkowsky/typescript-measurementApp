@@ -1,0 +1,185 @@
+/*pom.dodaj(new Date(2021,0,1,0), 100);
+pom.dodaj(new Date(2021,0,1,1), 100);
+pom.dodaj(new Date(2021,0,1,2), 122);
+pom.dodaj(new Date(2021,0,1,3), 100);
+pom.dodaj(new Date(2021,0,1,4), 100);
+pom.dodaj(new Date(2021,0,1,5), 100);
+pom.dodaj(new Date(2021,0,1,6), 100);
+pom.dodaj(new Date(2021,0,1,7), 100);
+pom.dodaj(new Date(2021,0,1,8), 100);
+pom.dodaj(new Date(2021,0,1,9), 100);
+pom.dodaj(new Date(2021,0,1,10), 100);
+pom.dodaj(new Date(2021,0,1,11), 100);
+pom.dodaj(new Date(2021,0,1,12), 122);
+pom.dodaj(new Date(2021,0,1,13), 180);
+pom.dodaj(new Date(2021,0,1,14), 100);
+pom.dodaj(new Date(2021,0,1,15), 100);
+pom.dodaj(new Date(2021,0,1,16), 155);
+pom.dodaj(new Date(2021,0,1,17), 100);
+pom.dodaj(new Date(2021,0,1,18), 100);
+pom.dodaj(new Date(2021,0,1,19), 100);
+pom.dodaj(new Date(2021,0,1,20), 100);
+pom.dodaj(new Date(2021,0,1,21), 100);
+pom.dodaj(new Date(2021,0,1,22), 100);
+pom.dodaj(new Date(2021,0,1,23), 100);
+
+pom.dodaj(new Date(2021,0,2,0), 112);
+pom.dodaj(new Date(2021,0,2,1), 100);
+pom.dodaj(new Date(2021,0,2,2), 100);
+pom.dodaj(new Date(2021,0,2,3), 100);
+pom.dodaj(new Date(2021,0,2,4), 100);
+pom.dodaj(new Date(2021,0,2,5), 100);
+pom.dodaj(new Date(2021,0,2,6), 100);
+pom.dodaj(new Date(2021,0,2,7), 100);
+pom.dodaj(new Date(2021,0,2,8), 100);
+pom.dodaj(new Date(2021,0,2,9), 100);
+pom.dodaj(new Date(2021,0,2,10), 100);
+pom.dodaj(new Date(2021,0,2,11), 100);
+pom.dodaj(new Date(2021,0,2,12), 100);
+pom.dodaj(new Date(2021,0,2,13), 100);
+pom.dodaj(new Date(2021,0,2,14), 100);
+pom.dodaj(new Date(2021,0,2,15), 122);
+pom.dodaj(new Date(2021,0,2,16), 100);
+pom.dodaj(new Date(2021,0,2,17), 100);
+pom.dodaj(new Date(2021,0,2,18), 100);
+pom.dodaj(new Date(2021,0,2,19), 100);
+pom.dodaj(new Date(2021,0,2,20), 100);
+pom.dodaj(new Date(2021,0,2,21), 100);
+pom.dodaj(new Date(2021,0,2,22), 100);
+pom.dodaj(new Date(2021,0,2,23), 100);
+
+
+
+pom.dodaj(new Date(2021,0,3), 123);
+pom.dodaj(new Date(2021,0,3,1), 100);
+pom.dodaj(new Date(2021,0,3,2), 100);
+pom.dodaj(new Date(2021,0,3,3), 155);
+pom.dodaj(new Date(2021,0,3,4), 100);
+pom.dodaj(new Date(2021,0,3,5), 100);
+pom.dodaj(new Date(2021,0,3,6), 100);
+pom.dodaj(new Date(2021,0,3,7), 100);
+pom.dodaj(new Date(2021,0,3,8), 100);
+pom.dodaj(new Date(2021,0,3,9), 100);
+pom.dodaj(new Date(2021,0,3,10), 100);
+pom.dodaj(new Date(2021,0,3,11), 122);
+pom.dodaj(new Date(2021,0,3,12), 100);
+pom.dodaj(new Date(2021,0,3,13), 100);
+pom.dodaj(new Date(2021,0,3,14), 100);
+pom.dodaj(new Date(2021,0,3,15), 100);
+pom.dodaj(new Date(2021,0,3,16), 100);
+pom.dodaj(new Date(2021,0,3,17), 100);
+pom.dodaj(new Date(2021,0,3,18), 100);
+pom.dodaj(new Date(2021,0,3,19), 100);
+pom.dodaj(new Date(2021,0,3,20), 100);
+pom.dodaj(new Date(2021,0,3,21), 100);
+pom.dodaj(new Date(2021,0,3,22), 100);
+pom.dodaj(new Date(2021,0,3,23), 100);
+
+
+
+pom.dodaj(new Date(2021,0,4,0), 134);
+pom.dodaj(new Date(2021,0,4,1), 100);
+pom.dodaj(new Date(2021,0,4,2), 188);
+pom.dodaj(new Date(2021,0,4,3), 100);
+pom.dodaj(new Date(2021,0,4,4), 100);
+pom.dodaj(new Date(2021,0,4,5), 100);
+pom.dodaj(new Date(2021,0,4,6), 100);
+pom.dodaj(new Date(2021,0,4,7), 100);
+pom.dodaj(new Date(2021,0,4,8), 177);
+pom.dodaj(new Date(2021,0,4,9), 100);
+pom.dodaj(new Date(2021,0,4,10), 100);
+pom.dodaj(new Date(2021,0,4,11), 100);
+pom.dodaj(new Date(2021,0,4,12), 100);
+pom.dodaj(new Date(2021,0,4,13), 100);
+pom.dodaj(new Date(2021,0,4,14), 100);
+pom.dodaj(new Date(2021,0,4,15), 100);
+pom.dodaj(new Date(2021,0,4,16), 100);
+pom.dodaj(new Date(2021,0,4,17), 100);
+pom.dodaj(new Date(2021,0,4,18), 100);
+pom.dodaj(new Date(2021,0,4,19), 100);
+pom.dodaj(new Date(2021,0,4,20), 102);
+pom.dodaj(new Date(2021,0,4,21), 100);
+pom.dodaj(new Date(2021,0,4,22), 100);
+pom.dodaj(new Date(2021,0,4,23), 100);
+
+
+pom.dodaj(new Date(2021,0,5,0), 144);
+
+pom.dodaj(new Date(2021,0,5,1), 100);
+pom.dodaj(new Date(2021,0,5,2), 100);
+pom.dodaj(new Date(2021,0,5,3), 103);
+pom.dodaj(new Date(2021,0,5,4), 100);
+pom.dodaj(new Date(2021,0,5,5), 100);
+pom.dodaj(new Date(2021,0,5,6), 100);
+pom.dodaj(new Date(2021,0,5,7), 100);
+pom.dodaj(new Date(2021,0,5,8), 100);
+pom.dodaj(new Date(2021,0,5,9), 100);
+pom.dodaj(new Date(2021,0,5,10), 100);
+pom.dodaj(new Date(2021,0,5,11), 104);
+pom.dodaj(new Date(2021,0,5,12), 100);
+pom.dodaj(new Date(2021,0,5,13), 100);
+pom.dodaj(new Date(2021,0,5,14), 108);
+pom.dodaj(new Date(2021,0,5,15), 100);
+pom.dodaj(new Date(2021,0,5,16), 100);
+pom.dodaj(new Date(2021,0,5,17), 107);
+pom.dodaj(new Date(2021,0,5,18), 100);
+pom.dodaj(new Date(2021,0,5,19), 100);
+pom.dodaj(new Date(2021,0,5,20), 100);
+pom.dodaj(new Date(2021,0,5,21), 106);
+pom.dodaj(new Date(2021,0,5,22), 100);
+pom.dodaj(new Date(2021,0,5,23), 100);
+
+
+
+pom.dodaj(new Date(2021,0,6,0), 156);
+pom.dodaj(new Date(2021,0,6,1), 100);
+pom.dodaj(new Date(2021,0,6,2), 101);
+pom.dodaj(new Date(2021,0,6,3), 100);
+pom.dodaj(new Date(2021,0,6,4), 100);
+pom.dodaj(new Date(2021,0,6,5), 100);
+pom.dodaj(new Date(2021,0,6,6), 100);
+pom.dodaj(new Date(2021,0,6,7), 100);
+pom.dodaj(new Date(2021,0,6,8), 100);
+pom.dodaj(new Date(2021,0,6,9), 100);
+pom.dodaj(new Date(2021,0,6,10), 102);
+pom.dodaj(new Date(2021,0,6,11), 100);
+pom.dodaj(new Date(2021,0,6,12), 100);
+pom.dodaj(new Date(2021,0,6,13), 100);
+pom.dodaj(new Date(2021,0,6,14), 100);
+pom.dodaj(new Date(2021,0,6,15), 100);
+pom.dodaj(new Date(2021,0,6,16), 100);
+pom.dodaj(new Date(2021,0,6,17), 134);
+pom.dodaj(new Date(2021,0,6,18), 100);
+pom.dodaj(new Date(2021,0,6,19), 100);
+pom.dodaj(new Date(2021,0,6,20), 100);
+pom.dodaj(new Date(2021,0,6,21), 100);
+pom.dodaj(new Date(2021,0,6,22), 100);
+pom.dodaj(new Date(2021,0,6,23), 100);
+
+
+pom.dodaj(new Date(2021,0,7,0), 166);
+pom.dodaj(new Date(2021,0,7,1), 104);
+pom.dodaj(new Date(2021,0,7,2), 100);
+pom.dodaj(new Date(2021,0,7,3), 100);
+pom.dodaj(new Date(2021,0,7,4), 100);
+pom.dodaj(new Date(2021,0,7,5), 100);
+pom.dodaj(new Date(2021,0,7,6), 100);
+pom.dodaj(new Date(2021,0,7,7), 100);
+pom.dodaj(new Date(2021,0,7,8), 160);
+pom.dodaj(new Date(2021,0,7,9), 100);
+pom.dodaj(new Date(2021,0,7,10), 100);
+pom.dodaj(new Date(2021,0,7,11), 100);
+pom.dodaj(new Date(2021,0,7,12), 105);
+pom.dodaj(new Date(2021,0,7,13), 100);
+pom.dodaj(new Date(2021,0,7,14), 100);
+pom.dodaj(new Date(2021,0,7,15), 140);
+pom.dodaj(new Date(2021,0,7,16), 100);
+pom.dodaj(new Date(2021,0,7,17), 100);
+pom.dodaj(new Date(2021,0,7,18), 103);
+pom.dodaj(new Date(2021,0,7,19), 100);
+pom.dodaj(new Date(2021,0,7,20), 110);
+pom.dodaj(new Date(2021,0,7,21), 100);
+pom.dodaj(new Date(2021,0,7,22), 100);
+pom.dodaj(new Date(2021,0,7,23), 103);
+
+/*
