@@ -95,7 +95,7 @@ for (var i = 1; i < 7; i++) { //start.getHours()+1  //start.setHours(start.getHo
     console.log(start);
 }
 var dataStart = new Date('2022-01-01T00:00:00.000Z');
-var dataStop = new Date('2022-01-07T00:00:00.000Z');
+var dataStop = new Date('2023-01-07T00:00:00.000Z');
 console.log("max:", pom.max(dataStart, dataStop));
 console.log("min:", pom.min(dataStart, dataStop));
 console.log("avg:", pom.avg(dataStart, dataStop));
